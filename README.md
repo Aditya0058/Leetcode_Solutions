@@ -7,8 +7,25 @@ This repo containes all my leetcode problem's solution solved so far.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
