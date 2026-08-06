@@ -7,6 +7,7 @@ This repo containes all my leetcode problem's solution solved so far.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -28,4 +29,8 @@ This repo containes all my leetcode problem's solution solved so far.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
