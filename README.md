@@ -38,6 +38,7 @@ This repo containes all my leetcode problem's solution solved so far.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -56,4 +57,8 @@ This repo containes all my leetcode problem's solution solved so far.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
