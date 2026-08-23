@@ -22,6 +22,7 @@ This repo containes all my leetcode problem's solution solved so far.
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -50,6 +51,7 @@ This repo containes all my leetcode problem's solution solved so far.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +60,7 @@ This repo containes all my leetcode problem's solution solved so far.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
