@@ -12,6 +12,7 @@ This repo containes all my leetcode problem's solution solved so far.
 | [0189-rotate-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya0058/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
